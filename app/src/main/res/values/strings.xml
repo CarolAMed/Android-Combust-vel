@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercise Fuel</string>
+    <string name="valorGas">Gasoline Price</string>
+    <string name="valorEtanol">Ethanol Price</string>
+    <string name="melhorCombustivel">The Best Fuel is</string>
+    <string name="gas">Gasoline</string>
+    <string name="etanol">Ethanol</string>
+   
+
+
+</resources>

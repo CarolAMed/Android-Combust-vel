@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercício Combustível</string>
+
+
+    <string name="melhorCombustivel">O Melhor Combustível é</string>
+    <string name="gas">Gasolina</string>
+    <string name="etanol">Etanol</string>
+    <string name="valorGas">Preço da Gasolina</string>
+    <string name="valorEtanol">Preço do Etanol</string>
+</resources>
